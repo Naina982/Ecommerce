@@ -1,0 +1,28 @@
+1. command -> npm init
+2. Add dependencies in the project
+
+-Express -> npm install express 
+-Sequelize -> npm install sequelize
+-Mysql->npm install mysql2
+-Body Parser-> npm install body-parser
+
+environments
+________________
+-Dev environments
+-UAT/staging environments
+    simulation of production environments
+-QA environments
+-production environments
+
+what is program?
+program is a set of instruction that the computer has to perform
+program resides in secondary memory
+
+execution of the program is called process...
+
+
+3. git init
+4. git add.(add all the files in this project)
+
+5. Make a file names .gitignore and write node_modules in it.
+6. git add (add all the files in this project)
